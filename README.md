@@ -8,7 +8,7 @@
 ### What it does:   
 1) Opens page scource code of advanced search page at arxiv.org
 2) Goes through all publications in a given time period
-3) Based on predefined list of key words it picks specific publisations and collects following information
+3) Based on predefined list of key words it picks specific publisations and collects following information  
     Title,  
     Link,  
     Authors,  
@@ -25,7 +25,7 @@
 
 ### Note:
 1) Key words are provided in words_for_search.docx file AND might also be added at Jupyter Nobebook as well
-2) Topics assigned to the articles are:
+2) Topics assigned to the articles are:  
      Tensor_Networks,     
      Holography,           (aka AdS/CFT - subtopic of String Theory)
      Black_Holes_and_GR,   (GR stands for General Relativity)
