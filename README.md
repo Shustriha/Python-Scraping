@@ -9,13 +9,13 @@
 1) Opens page scource code of advanced search page at arxiv.org
 2) Goes through all publications in a given time period
 3) Based on predefined list of key words it picks specific publisations and collects following information
-    Title,
-    Link,
-    Authors,
-    Abstract(full version),
-    keywords found in and article(might be more than one),
-    MM/YYYY date of publication,
-    Based on keywords found publication is assigned a specific Topic
+    Title,  
+    Link,  
+    Authors,  
+    Abstract(full version),  
+    keywords found in and article(might be more than one),  
+    MM/YYYY date of publication,  
+    Based on keywords found publication is assigned a specific Topic  
 4) Information is added into a table
 5) Table is then saved as a csv file
 
