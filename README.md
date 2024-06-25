@@ -20,7 +20,7 @@
 5) Table is then saved as a csv file
 
 
-
+## IMPORTANT: To get more details about code implementation see Pictures 1 - 3
 
 
 ### Note:
